@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++,Flutter,Python,**
 
-- 👯 I’m looking to collaborate on [Manga Slayer](https://youtu.be/cEW37dNdwRw?si=erYSUgWN5L5J5rMEn)
+- 👯 I’m looking to collaborate on [Manga Slayer](https://github.com/MadaraMods/github-profile-readme-generator)
 
 - 🤝 I’m looking for help with [Manga Viewer](https://youtu.be/cEW37dNdwRw?si=erYSUgWN5L5J5rM)
 
