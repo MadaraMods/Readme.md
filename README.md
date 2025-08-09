@@ -5,7 +5,3 @@
 
 ![MadaraMods's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadaraMods&theme=gruvbox&show_icons=true&hide_border=false&layout=compact)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MadaraMods}/count.svg" /></p> 
-<br></div>
