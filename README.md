@@ -20,3 +20,15 @@
     <img src="https://github-widgetbox.vercel.app/api/profile?username=trindadedev13&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
   </a>
 </div>
+
+
+<h1 style="color:cyan;">Selam Ben Madara Mods</h1>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FFFF&width=435&lines=Selam+Ben+Madara+Mods;GitHub+Stats+Profilimde!)
+
+## 📊 GitHub İstatistiklerim
+
+![MadaraMods's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadaraMods&show_icons=true&theme=tokyonight)
+
+
+![MadaraMods's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadaraMods&show_icons=true&theme=tokyonight)
